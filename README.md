@@ -5,13 +5,13 @@ apply Security Program for Windows using vbs scripts and ansible and so on
 
 1. scenario
 
-+ 6/15
-  - ドメイン外す
-  - 別のwin立てる
++ 6/15  
+  - ドメイン外す  
+  - 別のwin立てる  
   - たくさん当てとく
   - 2~3個外す
   - ansibleで外からつつく
-  - candidate + downloadは一気通貫
+  - candidate+downloadは一気通貫
   - install
   - restart
   - crawling CI
